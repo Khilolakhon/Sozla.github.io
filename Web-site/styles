@@ -1,0 +1,35 @@
+body, html {
+  height: 100%;
+}
+
+.bg {
+  background-image: url("bg.jpg");
+
+  height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+h1{
+	font-family: Alegreya SC;
+	font-size: 60 px;
+	color: black;
+	text-align: center;
+	background-color: white;	
+}
+
+h3{
+	font-family: Alegreya SC;
+	font-size: 30 px;
+	color: black;
+	text-align: center;
+	background-color: white;	
+}
+
+p{
+	color: black;
+	background-color: white;
+}
